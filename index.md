@@ -17,4 +17,4 @@
 
 ## 活動　　
 + 競技プログラミング  
-  -　2015.12　CODE　THANKS　FESTIVAL参加　　
+  - 2015.12　CODE　THANKS　FESTIVAL参加　　
